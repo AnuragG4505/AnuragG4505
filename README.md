@@ -8,6 +8,12 @@
 - ✍️ &nbsp; Pursuing Writing as content creation and an attempt to trying to be useful as scale.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+- ⚙️ &nbsp;
+    Git,
+    GitHub,
+    Markdown
+  
 - 💻 &nbsp;
    Python,
    C,
@@ -16,11 +22,6 @@
 - 🌐 &nbsp;
    HTML,
    CSS
-
-- ⚙️ &nbsp;
-    Git,
-    GitHub,
-    Markdown
   
 - 🔧 &nbsp;
     Visual Studio Code,
